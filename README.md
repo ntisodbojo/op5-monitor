@@ -20,3 +20,5 @@ ni ska ladda ner software bundle, packa upp filerna och lägga dessa i **src** f
 Nu ska det bara vara att starta maskinen. Det tar ett tag, vi ska ladda ner centos(redhat). Installera op5 och uppdatera maskinen.
 
     vagrant up
+
+ni hittar op5 på https://192.168.33.10 certificatet är inte godkänt, gpdkänd att bryta mot säkerheten.
