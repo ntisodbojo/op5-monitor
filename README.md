@@ -21,4 +21,10 @@ Nu ska det bara vara att starta maskinen. Det tar ett tag, vi ska ladda ner cent
 
     vagrant up
 
-ni hittar op5 på https://192.168.33.10 certificatet är inte godkänt, gpdkänd att bryta mot säkerheten.
+ni hittar op5 på https://192.168.33.10/monitor certificatet är inte godkänt, gpdkänd att bryta mot säkerheten.
+
+logga in med
+
+  username: monitor
+  password: monitor
+  
